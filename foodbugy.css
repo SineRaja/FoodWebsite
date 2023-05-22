@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo-image {
+    height: 50px;
+    width: 50px;
+}
+
+.custom-nav-link {
+    font-family: "Roboto" !important;
+    color: #A30056 !important;
+    font-weight: 500;
+}
+
+.banner-section-bg-image {
+    background-image: url('https://img.freepik.com/free-photo/front-view-burger-with-french-fries_23-2148235071.jpg?size=626&ext=jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-paragraph {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.view-menu-button {
+    height: 45px;
+    width: 135px;
+    background-color: #A30056;
+    color: white;
+    border-radius: 8px;
+    border-width: 0;
+    margin-right: 10px;
+}
+
+.order-now-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+
+.banner-box-inside {
+    border-radius: 8px;
+    margin: 35px;
+    padding: 10px;
+    background: transparent;
+    border-style: solid;
+    border-width: 5px;
+    border-color: yellow;
+}
+
+.home-section {
+    background-color: #f9fbfe;
+}
+
+.home-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.home-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.home-card {
+    border-radius: 16px;
+
+}
+
+.home-card-image {
+    border-radius: 16px;
+
+
+}
+
+.home-card-title {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.home-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.delivery-and-payment-image {
+    width: 270px;
+}
+
+.delivery-and-payment-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.delivery-and-payment-paragraph {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.gift-image {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.thank-you-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.footer-background {
+    background-color: #19232d;
+}
+
+.footer-logo {
+    width: 66px;
+    height: 76px;
+}
+
+.footer-icon-background {
+    width: 40px;
+    height: 40px;
+    opacity: 0.5;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 15px;
+    background-color: #eef0f2;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.footer-icon {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.footer-heading {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.footer-section-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.footer-text {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.footer-section-copyright {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+}
